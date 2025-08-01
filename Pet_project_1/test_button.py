@@ -27,3 +27,4 @@ def test_button2_clicked():
     driver.get('https://www.qa-practice.com/elements/button/like_a_button')
     driver.find_element('link text', 'Click').click()
     assert 'Submitted' == driver.find_element('id', 'result-text').text
+
