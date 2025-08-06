@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6080de55-4069-4aef-b350-4f3564caeaec" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Pet_project_1/Buttons/check.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="30bparjsRBHfnrZ8OIzNvCJV0NL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for check.test_alert_button1.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button1_click.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button1_click_ok.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button2.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button2_click.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button2_click_cancel.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button2_click_ok.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button3.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button3_click.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button3_click_input.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button1.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button1_click.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button1_click_ok.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button1_clicked.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button2.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button2_click.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button2_click_cancel.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button2_click_ok.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button3.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button3_click.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button3_click_input.executor": "Run",
+    "Python tests.Python tests for test_alert.test_button1_exist.executor": "Run",
+    "Python tests.Python tests for test_button.test_button1.executor": "Run",
+    "Python tests.Python tests for test_button.test_button1_click.executor": "Run",
+    "Python tests.Python tests for test_button.test_button1_clicked.executor": "Run",
+    "Python tests.Python tests for test_button.test_button1_exist.executor": "Run",
+    "Python tests.Python tests for test_qa.test_button2_exist.executor": "Run",
+    "Python tests.Python tests for test_qa1.test_button1_clicked.executor": "Run",
+    "Python tests.Python tests for test_qa1.test_button1_exist.executor": "Run",
+    "Python tests.Python tests for test_qa1.test_button2_clicked.executor": "Run",
+    "Python tests.Python tests for test_qa1.test_button2_exist.executor": "Run",
+    "Python tests.Python tests in test_alert.py.executor": "Run",
+    "Python tests.Python tests in test_button.py.executor": "Run",
+    "Python tests.Python tests in test_qa.py.executor": "Run",
+    "Python tests.Python tests in test_qa1.py.executor": "Run",
+    "Python.check.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\Pet-project\Pet_project_1\Buttons" />
+      <recent name="C:\Users\admin\PycharmProjects\Pet-project\Pet_project_1\Alerts" />
+      <recent name="C:\Users\admin\PycharmProjects\Pet-project\Pet_project_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_alert.test_alert_button1">
+    <configuration name="check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pet-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pet_project_1/Buttons" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pet_project_1/Buttons/check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_alert.test_alert_button1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Pet-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pet_project_1/Alerts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_alert.test_alert_button1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_button.test_button1_click" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Pet-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pet_project_1/Buttons" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_button.test_button1_click&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_alert.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Pet-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pet_project_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Pet_project_1/Alerts/test_alert.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_button.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Pet-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pet_project_1/Buttons" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Pet_project_1/Buttons/test_button.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_alert.test_alert_button1" />
+        <item itemvalue="Python.check" />
+        <item itemvalue="Python tests.Python tests in test_button.py" />
+        <item itemvalue="Python tests.Python tests in test_alert.py" />
+        <item itemvalue="Python tests.Python tests for test_button.test_button1_click" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6080de55-4069-4aef-b350-4f3564caeaec" name="Changes" comment="" />
+      <created>1753906192441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753906192441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
