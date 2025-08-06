@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6080de55-4069-4aef-b350-4f3564caeaec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Pet-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,49 +37,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for check.test_alert_button1.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for check.test_alert_button1_click.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for check.test_alert_button1_click_ok.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for check.test_alert_button2.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for check.test_alert_button2_click.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for check.test_alert_button2_click_cancel.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for check.test_alert_button2_click_ok.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for check.test_alert_button3.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for check.test_alert_button3_click.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for check.test_alert_button3_click_input.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_alert.test_alert_button1.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_alert.test_alert_button1_click.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_alert.test_alert_button1_click_ok.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_alert.test_alert_button1_clicked.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_alert.test_alert_button2.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_alert.test_alert_button2_click.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_alert.test_alert_button2_click_cancel.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_alert.test_alert_button2_click_ok.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_alert.test_alert_button3.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_alert.test_alert_button3_click.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_alert.test_alert_button3_click_input.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_alert.test_button1_exist.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_button.test_button1.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_button.test_button1_click.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_button.test_button1_clicked.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_button.test_button1_exist.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_qa.test_button2_exist.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_qa1.test_button1_clicked.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_qa1.test_button1_exist.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_qa1.test_button2_clicked.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_qa1.test_button2_exist.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_alert.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_button.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_qa.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_qa1.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.check.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for check.test_alert_button1.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button1_click.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button1_click_ok.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button2.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button2_click.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button2_click_cancel.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button2_click_ok.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button3.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button3_click.executor": "Run",
+    "Python tests.Python tests for check.test_alert_button3_click_input.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button1.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button1_click.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button1_click_ok.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button1_clicked.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button2.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button2_click.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button2_click_cancel.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button2_click_ok.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button3.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button3_click.executor": "Run",
+    "Python tests.Python tests for test_alert.test_alert_button3_click_input.executor": "Run",
+    "Python tests.Python tests for test_alert.test_button1_exist.executor": "Run",
+    "Python tests.Python tests for test_button.test_button1.executor": "Run",
+    "Python tests.Python tests for test_button.test_button1_click.executor": "Run",
+    "Python tests.Python tests for test_button.test_button1_clicked.executor": "Run",
+    "Python tests.Python tests for test_button.test_button1_exist.executor": "Run",
+    "Python tests.Python tests for test_qa.test_button2_exist.executor": "Run",
+    "Python tests.Python tests for test_qa1.test_button1_clicked.executor": "Run",
+    "Python tests.Python tests for test_qa1.test_button1_exist.executor": "Run",
+    "Python tests.Python tests for test_qa1.test_button2_clicked.executor": "Run",
+    "Python tests.Python tests for test_qa1.test_button2_exist.executor": "Run",
+    "Python tests.Python tests in test_alert.py.executor": "Run",
+    "Python tests.Python tests in test_button.py.executor": "Run",
+    "Python tests.Python tests in test_qa.py.executor": "Run",
+    "Python tests.Python tests in test_qa1.py.executor": "Run",
+    "Python.check.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\admin\PycharmProjects\Pet-project\Pet_project_1\Buttons" />
