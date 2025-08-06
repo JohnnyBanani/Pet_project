@@ -1,0 +1,30 @@
+# JetBrains IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+*.ids
+*.orig
+*.swp
+
+# Virtual environments
+.venv/
+venv/
+env/
+bin/
+lib/
+include/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+**/__pycache__/
+*.egg-info/
+dist/
+build/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
